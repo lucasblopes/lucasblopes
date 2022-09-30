@@ -13,13 +13,14 @@ Clicando <a href="https://linktr.ee/lucasblopes">AQUI</a> você será direcionad
 
 - 😁 Amo trabalhar em equipe e conhecer novas ideias
 
+- 🎯 Sou movido a Desafios
+
 - 💻 Atualmente programando em Javascript
 
 - 🤸🏼‍♂️ Apaixonado por atividades físicas
 
 - 📖 Gênero Literário Favorito: Distopias
 
-- 🎯 Sou movido a Desafios
 
 #
 
@@ -30,11 +31,10 @@ Clicando <a href="https://linktr.ee/lucasblopes">AQUI</a> você será direcionad
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<br />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 #
 
 <details>
  <summary><h3>👨‍💻 Minha história com a programação</h3></summary>
-   O meu primeiro contato com a programação foi quando eu estava decidindo qual curso eu iria fazer. Nesse sentido, encontrei a plataforma Codecademy, que depois de um teste vocacional, me recomendou fazer um curso de Javascript. Logo nas primeiras horas de estudo eu me apaixonei com a dinâmica da programação, o que me motivou a procurar mais conhecimento e estudar as ferramentas HTML5 e CSS3. Assim, decidi ingressar no curso de Ciência da Computação para obter um conhecimento mais amplo sobre o mundo da tecnologia da informação. Agora, o meu principal objetivo é continuar aprendendo e lançar o meu primeiro aplicativo.
+   O meu primeiro contato com a programação foi quando eu estava decidindo qual curso eu iria fazer. Nesse sentido, encontrei a plataforma <a href="https://www.codecademy.com/">Codecademy</a> que, depois de um teste vocacional, me recomendou fazer um curso de Javascript. Logo nas primeiras horas de estudo eu me apaixonei com a dinâmica da programação, o que me motivou a procurar mais conhecimento e estudar as ferramentas HTML5 e CSS3. Assim, decidi ingressar no curso de Ciência da Computação para obter um conhecimento mais amplo sobre o mundo da tecnologia da informação. Agora, o meu principal objetivo é continuar aprendendo e lançar o meu primeiro aplicativo.
