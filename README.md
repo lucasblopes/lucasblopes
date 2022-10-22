@@ -17,11 +17,6 @@ Clicando <a href="https://linktr.ee/lucasblopes" target="_blank" rel="external">
 
 - 💻 Atualmente programando em Javascript
 
-- 🤸🏼‍♂️ Apaixonado por atividades físicas
-
-- 📖 Gênero Literário Favorito: Distopias
-
-
 #
 
 ### 🧰 Linguagens e Ferramentas
