@@ -9,7 +9,7 @@ Clicando <a href="https://linktr.ee/lucasblopes" target="_blank" rel="external">
 
 ### 🤓 Sobre
 
-- 🔭 Ciência da Computação pela UFPR (3/8) 
+- 🔭 Ciência da Computação pela UFPR (4/8) 
 
 - 😁 Amo trabalhar em equipe e conhecer novas ideias
 
