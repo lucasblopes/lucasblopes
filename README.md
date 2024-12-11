@@ -12,7 +12,7 @@ Hello! Here you can find some of my personal projects.
 
 - 🎯 Driven by challenges
 
-- 💻 Currently working with C# and Java
+- 💻 Currently working with Python, Java and Javascript
 
 #
 
