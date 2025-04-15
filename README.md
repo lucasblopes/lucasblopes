@@ -8,7 +8,7 @@ Hello! Here you can find some of my personal projects.
 
 ### 🤓 About
 
-- 🔭 Computer Science (UFPR) (5/8) 
+- 🔭 Computer Science (UFPR) (6/8) 
 
 - 🎯 Driven by challenges
 
